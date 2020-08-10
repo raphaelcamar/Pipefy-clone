@@ -1,0 +1,474 @@
+{
+    "Financeiro" : [
+        {
+            "cards" : [
+                {
+                    "id": 0,
+                    "title": "Pedidos de Reembolso de Viagem",
+                    "description": "Crie um processo rápido e organizado de Pedidos de Reembolso de Viagem com este modelo…",
+                    "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/03/vacation-request-icon.png"
+                  },
+                  {
+                    "id": 1,
+                    "title": "Solicitações de Departamento Financeiro — Trabalho Remoto",
+                    "description": "Com o COVID-19, empresas tiveram que mudar a maior parte (ou toda) da sua operação…",
+                    "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-software-development-1.png"
+                  },
+                  {
+                    "id": 2,
+                    "title": "Gerenciamento de Eventos para as Federações: Finanças",
+                    "description": "Seguindo o fluxo do gerenciamento dos eventos no Pipefy, esse template é destinado às atividades…",
+                    "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/05/icone-contas-a-receber.png"
+                  },
+                  {
+                    "id": 3,
+                    "title": "MEJ – Reembolso",
+                    "description": "Utilize este template para gerenciar os pedidos de reembolso de sua EJ. Este template foi…",
+                    "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/05/icone-contas-a-pagar.png"
+                  },
+                  {
+                    "id": 4,
+                    "title": "MEJ – Contas a receber",
+                    "description": "Pipe para controle semi-automático de contas a receber.Neste processo você pode enviar um lembrete amigável…",
+                    "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/05/icone-contas-a-receber.png"
+                  },
+                  {
+                    "id": 5,
+                    "title": "Análise de Contratos",
+                    "description": "O modelo de Análise de Contratos grátis do Pipefy oferece uma forma fácil de administrar o processo…",
+                    "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/05/icon-business-contract-analysis.png"
+                  },
+                  {
+                    "id": 6,
+                    "title": "Pedidos de Reembolso",
+                    "description": "Comece a organizar seu processo de Reembolso de Despesas com esse template pronto, e depois…",
+                    "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-expense-reimbursment.png"
+                  },
+                  {
+                    "id": 7,
+                    "title": "Contas a Receber",
+                    "description": "Comece a organizar seu processo de Contas a Receber com esse template pronto, e depois…",
+                    "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/05/icone-contas-a-receber.png"
+                  },
+                  {
+                    "id": 8,
+                    "title": "Pedido de Compras",
+                    "description": "Comece a organizar seu Processo de Compras com esse modelo de requisição pronto, e depois…",
+                    "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-purchasing.png"
+                  }
+            ]
+        },
+        {
+            "topico" : "Financeiro",
+            "mais" : false
+        }
+    ],
+    "Recursos Humanos": [  
+        {
+          "Cards": [
+            {
+              
+              "id": 0,
+              "title": "Covid-19 – Acompanhamento de colaboradores",
+              "description": "Durante esses tempos difíceis da COVID-19, segurança é a coisa mais importante. E mais do…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/11/icon-solveproblems.png"
+            },
+            {
+              "id": 1,
+              "title": "Solicitações de Férias",
+              "description": "O modelo gratuito de Solicitações de Férias segue um passo a passo simples, porém customizável,…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/03/vacation-request-icon.png"
+            },
+            {
+              "id": 2,
+              "title": "Desenvolvimento de Colaboradores",
+              "description": "Este modelo gratuito de Desenvolvimento de Colaboradores permitirá avaliar as características de seus colaboradores e…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/09/internal-recruitment-icon.png"
+            },
+            {
+              "id": 3,
+              "title": "Solicitações RH – Trabalho Remoto",
+              "description": "Pode ser difícil gerenciar solicitações ao trabalhar remotamente. Se seu time de RH está fazendo…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-customer-feedback.png"
+            },
+            {
+              "id": 4,
+              "title": "Gestão de Trabalho Remoto",
+              "description": "Se você está fazendo home office por causa da Covid-19 e está tendo dificuldades para…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2020/07/icon-kamban-fin.svg"
+            },
+            {
+              "id": 5,
+              "title": "Recrutamento",
+              "description": "Use esse template pronto para testar Pipefy para Recrutamento e customize-o de acordo com suas…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-recruiting.png"
+            },
+            {
+              "id": 6,
+              "title": "Onboarding de Colaboradores",
+              "description": "Use esse modelo pronto para testar o Pipefy para Onboarding de Colaboradores e customize-o de…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-employee-onboarding.png"
+            },
+            {
+              "id": 7,
+              "title": "Seleção de Talentos",
+              "description": "Com esse template você pode pode acompanhar seus candidatos desde a inscrição, passando pelas dinâmicas,…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/03/candidates-screening-and-interviews-icon.png"
+            },
+            {
+              "id": 8,
+              "title": "Processo Seletivo – Autojun",
+              "description": "Processo seletivo simples e descomplicado, desenvolvido pela Autojun – EJ de engenharia de controle e…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/03/candidates-screening-and-interviews-icon.png"
+            }
+          ]
+        },
+        {
+        "topico" : "Recursos Humamos",
+        "mais" : false
+    }
+      ],
+      "Customer Service": [    
+        {
+          "Cards": [
+            {
+             
+              "id": 0,
+              "title": "Gerenciamento de Churn",
+              "description": "Churn sempre vai existir, mas isso não significa que você deve desistir da luta! Este…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/07/template-icon-team-member-onboarding.png"
+            },
+            {
+              "id": 1,
+              "title": "Gerenciamento de Sucesso do Cliente",
+              "description": "Tendo problemas para gerenciar seu processo de Customer Success? Não se preocupe! Este modelo gratuito…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/07/sem-management-icon.png"
+            },
+            {
+              "id": 2,
+              "title": "Pós-Venda UTJr",
+              "description": "Template usado pela UTJr. no acompanhamento do cliente por até 1 ano após o fechamento…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/09/event-planning-icon.png"
+            },
+            {
+              "id": 3,
+              "title": "Feedback de Clientes",
+              "description": "Use esse modelo pronto para receber e processar feedbacks de clientes e customize-o de acordo…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-customer-feedback.png"
+            },
+            {
+              "id": 4,
+              "title": "Gerenciamento das Parcerias by BJ",
+              "description": "O template de gerenciamento de parcerias foi criado para você manter o processo de contato…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/02/marketing-requests-icon-2.png"
+            },
+            {
+              "id": 5,
+              "title": "Atendimento ao Cliente",
+              "description": "Use esse modelo pronto para testar o Pipefy para Atendimento ao Cliente e customize-o de…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-customer-support.png"
+            },
+            {
+              "id": 6,
+              "title": "Onboarding de Clientes",
+              "description": "Use esse modelo pronto para testar o Pipefy para Onboarding de Clientes e customize-o de…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-customer-onboarding.png"
+            }
+          ]
+        },
+        {
+            "topico" : "Customer Service",
+            "mais" : false
+        }
+      ],
+      "Marketing": [
+        {
+          "Cards": [
+            {
+              
+              "id": 0,
+              "title": "Gestão de SEM",
+              "description": "O modelo de Gestão de SEM foi desenvolvido com a ajuda de Fernando Kanarski, consultor…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/09/software-testing-icon.png"
+            },
+            {
+              "id": 1,
+              "title": "Gestão de Campanhas de Marketing",
+              "description": "Gerencie suas campanhas de Marketing com esse modelo customizável e conquiste os maiores resultados! Esse…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-campaign-management.png"
+            },
+            {
+              "id": 2,
+              "title": "Growth Hacking Experiments Template",
+              "description": "Use esse modelo pronto para criar e acompanhar experimentos e customize-o de acordo com seu…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-growth-hacking-experiments.png"
+            },
+            {
+              "id": 3,
+              "title": "Gestão de Experimentos | Growth Hacking",
+              "description": "Estratégias e experimentos de crescimento (Growth Hacking) refinadas pela experiência de mais de 1.200 startups,…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/09/recruitment-strategy-icon.png"
+            },
+            {
+              "id": 4,
+              "title": "Planejador de Eventos",
+              "description": "Com esse template você pode planejar os seus eventos, definir os itens que precisam ser…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/02/content-marketing-icon.png"
+            },
+            {
+              "id": 5,
+              "title": "Qualificação de Leads",
+              "description": "O modelo de processo de Qualificação de Leads do Pipefy irá melhorar a qualidade dos seus processos de…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/01/i%CC%81cone-sales-pipeline.png"
+            },
+            {
+              "id": 6,
+              "title": "Gerenciamento de Eventos para as Federações: Parcerias",
+              "description": "Seguindo o fluxo do gerenciamento dos eventos no Pipefy, esse template é destinado às atividades…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/05/icone-contas-a-pagar.png"
+            },
+            {
+              "id": 7,
+              "title": "Gerenciamento de Eventos para as Federações: Infra",
+              "description": "Seguindo o fluxo do gerenciamento dos eventos no Pipefy, esse template é destinado às atividades…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/02/purchase-process-icon-1.png"
+            },
+            {
+              "id": 8,
+              "title": "Gerenciamento de Eventos para as Federações: Geral",
+              "description": "Seguindo o fluxo do gerenciamento dos eventos no Pipefy, esse template é destinado às atividades…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/09/customer-references-icon.png"
+            }
+          ]
+        },
+        {
+            "topico" : "Marketing",
+            "mais" : false
+        }
+      ],
+      "Vendas": [  
+        {
+          "Cards": [
+            {
+              
+              "id": 0,
+              "title": "Venda de Imóveis",
+              "description": "O Modelo de Vendas de Imóveis irá ajudá-lo a gerenciar seu processo de vendas, desde…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/07/template-icon-funding-pipeline.png"
+            },
+            {
+              "id": 1,
+              "title": "Recursos do Time de Vendas",
+              "description": "O modelo de Recursos do Time de Vendas do Pipefy é útil para estruturar e…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/05/icone-contas-a-pagar.png"
+            },
+            {
+              "id": 2,
+              "title": "Processo de Pitch de Vendas",
+              "description": "Fazer pitch de vendas bem-sucedidos é uma questão de boas práticas e planejamento. Essa é…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/07/customer-satisfaction-survey-phone-icon.png"
+            },
+            {
+              "id": 3,
+              "title": "Precificação de Projetos",
+              "description": "Reúna os dados necessários para a precificação de um projeto, conecte esse pipe ao seu…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2018/12/icon-reduce-costs-1.svg"
+            },
+            {
+              "id": 4,
+              "title": "Qualificação de Leads",
+              "description": "O modelo de processo de Qualificação de Leads do Pipefy irá melhorar a qualidade dos seus processos de…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/01/i%CC%81cone-sales-pipeline.png"
+            },
+            {
+              "id": 5,
+              "title": "Prospecção Ativa",
+              "description": "Com esse pipe sua EJ pode gerenciar um time de prospecção com uma etapa de…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/07/sprint-icon1.png"
+            },
+            {
+              "id": 6,
+              "title": "Prospecção pela UTjr",
+              "description": "Template usado pela UTJr no gerenciamento do time de prospecção, atribua responsáveis pela ligação, acompanhe…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/07/sprint-icon1.png"
+            },
+            {
+              "id": 7,
+              "title": "Funil de Vendas by BJ",
+              "description": "Esse template de funil de vendas foi criado para a sua EJ, Núcleo e Federação…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2018/12/icon-reduce-costs-1.svg"
+            },
+            {
+              "id": 8,
+              "title": "Funil de vendas para EJ",
+              "description": "Template criado com o intuito de representar um funil de vendas simples para EJs. É…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/05/icone-contas-a-pagar.png"
+            }
+          ]
+        },
+        {
+            "topico" : "Vendas",
+            "mais" : true
+        }
+      ],
+      "Desenvolvimento": [    
+        {
+          "Cards": [
+            {
+              
+              "id": 0,
+              "title": "Desenvolvimento de Software",
+              "description": "Desenvolva softwares a partir da Metodologia Ágil com este template pronto e customizável Esse é…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-software-development-1.png"
+            },
+            {
+              "id": 1,
+              "title": "Desenvolvimento Geral de Projetos",
+              "description": "Esse pipe foi desenvolvido pela EJEC para acompanhamento do desenvolvimento de projetos de Engenharia Civil…",
+              "image": "https://www.pipefy.com/wp-content/plugins/rdds-blocks/src/blocks/post-grid/default-image.png"
+            },
+            {
+              "id": 2,
+              "title": "Correções e Tarefas",
+              "description": "Este template de processo de Correções e Tarefas foi desenvolvido pelo nosso parceiro di20 Design e…",
+              "image": "https://www.pipefy.com/wp-content/plugins/rdds-blocks/src/blocks/post-grid/default-image.png"
+            },
+            {
+              "id": 3,
+              "title": "Teste de Hipóteses",
+              "description": "Esse modelo de processo foi desenvolvido para você realizar diferentes testes de hipóteses na sua…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/02/marketing-requests-icon-2.png"
+            },
+            {
+              "id": 4,
+              "title": "Roadmap de Produto",
+              "description": "Comece a usar esse template e customize-o da melhor maneira para seguir seu padrão de…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-product-roadmap.png"
+            },
+            {
+              "id": 5,
+              "title": "Acompanhamento de Bugs",
+              "description": "Use esse modelo personalizável para classificar e priorizar bugs com Pipefy Esse é o motivo…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-bug-tracking.png"
+            },
+            {
+              "id": 6,
+              "title": "Planejamento e Controle de Produção",
+              "description": "O processo de produção da sua empresa está desorganizado e pouco eficiente? Não consegue proporcionar…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/02/marketing-requests-icon-2.png"
+            }
+          ]
+        },
+        {
+            "topico" : "Desenvolvimento",
+            "mais" :false
+        }
+    ],
+    "TI": [    
+        {
+          "Cards": [
+            {
+              "id": 0,
+              "title": "Gerenciamento de Problemas de TI",
+              "description": "O modelo de Gerenciamento de Problemas de TI do Pipefy foi projetado para departamentos de…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/02/marketing-requests-icon-2.png"
+            },
+            {
+              "id": 1,
+              "title": "Solicitações de TI – Trabalho Remoto",
+              "description": "Com o COVID-19, empresas precisaram mover a maior parte (ou toda) da sua operação para…",
+              "image": "https://www.pipefy.com/wp-content/plugins/rdds-blocks/src/blocks/post-grid/default-image.png"
+            },
+            {
+              "id": 2,
+              "title": "Liberação de Acessos",
+              "description": "Comece a organizar seu processo de liberação de acessos para novos funcionários com esse template…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-it-onboarding.png"
+            },
+            {
+              "id": 3,
+              "title": "Solicitação de Manutenção",
+              "description": "Use esse modelo para gerenciar solicitações de manutenção de TI, contatos com fabricantes e compra…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-maintenance-requests.png"
+            },
+            {
+              "id": 4,
+              "title": "Chamados de TI",
+              "description": "Implemente esse modelo em seu processo de suporte de TI para monitorar e gerenciar as…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/12/icon-service-desk.png"
+            }
+          ]
+        },
+        {
+            "topico" : "TI",
+            "mais" : false
+        }
+
+      ],
+      
+      "Outros": [
+        {
+          "Cards": [
+            {
+              
+              "id": 0,
+              "title": "Gerenciamento de Tempo",
+              "description": "O modelo gratuito de Gerenciamento de Tempo do Pipefy é uma nova maneira de gerenciar…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/02/task-management-icon.png"
+            },
+            {
+              "id": 1,
+              "title": "Gestão de Projeto",
+              "description": "Procurando maneiras melhores de otimizar e gerenciar seus projetos? Este modelo de Gestão de Projeto…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2020/07/icon-platform-hr-2.svg"
+            },
+            {
+              "id": 2,
+              "title": "Gerenciamento de Solicitações",
+              "description": "Cansado de receber pedidos de pessoas diferentes em plataformas diferentes? Independentemente do seu departamento, temos…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2020/07/icon-database-hr-2.svg"
+            },
+            {
+              "id": 3,
+              "title": "Gestão de Tarefas de Equipe",
+              "description": "Com problemas para ter controle sobre as atividades de sua equipe? Não se preocupe, este…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/02/task-management-icon-1.png"
+            },
+            {
+              "id": 4,
+              "title": "Programa de Compliance",
+              "description": "Template criado pelo nosso parceiro Setting Consultoria.",
+              "image": "https://www.pipefy.com/wp-content/plugins/rdds-blocks/src/blocks/post-grid/default-image.png"
+            },
+            {
+              "id": 5,
+              "title": "Controle Tratamento de Não Conformidades",
+              "description": "Template criado pelo nosso parceiro Novofoco Consultoria",
+              "image": "https://www.pipefy.com/wp-content/plugins/rdds-blocks/src/blocks/post-grid/default-image.png"
+            },
+            {
+              "id": 6,
+              "title": "Manutenção Corretiva",
+              "description": "Este template de processo de Manutenção Corretiva foi desenvolvido pelo nosso parceiro Econotrade – Soluções…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/09/process-mapping-icon.png"
+            },
+            {
+              "id": 7,
+              "title": "Prospecção Ativa",
+              "description": "Com esse pipe sua EJ pode gerenciar um time de prospecção com uma etapa de…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2019/07/sprint-icon1.png"
+            },
+            {
+              "id": 7,
+              "title": "Entregas do projeto de Trainee",
+              "description": "Template desenvolvido pela UTJr para acompanhamento das entregas do projeto de trainee.Nesse pipe cada equipe…",
+              "image": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2016/02/marketing-requests-icon-2.png"
+            }
+          ]
+        },
+        {
+            "topico" : "Outros",
+            "mais": true
+        }
+      ]
+}

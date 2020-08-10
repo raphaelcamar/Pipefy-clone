@@ -1,0 +1,55 @@
+.input{
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    border: solid  2px #ECF1F8;
+}
+.input:focus{
+    background-color: white !important;
+}
+.search .input{
+    background: #ECF1F8;
+    padding: 15px;
+    border-radius: 20px;
+}
+.searchItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3% 0;
+    border-bottom: solid thin rgb(211, 211, 211);
+    padding-bottom: 3%; 
+}
+strong{
+    font-size: 40px;
+}
+.searchItem p{
+    font-size: 25px;
+    font-weight: 300;
+}
+.cardOptions{
+    display:flex;
+    justify-content: space-evenly;
+    margin: 2% 0;
+}
+.option{
+    border-radius:50px;
+    background-color: #ECF1F8;
+    padding: 15px;
+    transition: all ease .3s;
+    color: rgb(104, 116, 143);
+    cursor: pointer;
+}
+.option:hover{
+    color: #2E4056;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .focus{
+      background-color:#2e4056 !important ;
+  }
+  .focus:hover{
+      color:#ECF1F8 !important;
+  }

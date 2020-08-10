@@ -1,0 +1,24 @@
+.topic{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3% 0;
+    padding-bottom: 3%; 
+}
+
+.cardOptions{
+    display:flex;
+    justify-content: space-evenly;
+    margin: 2% 0;
+}
+.option{
+    border-radius:50px;
+    background-color: #ECF1F8;
+    padding: 15px;
+    transition: all ease .3s;
+    color: rgb(104, 116, 143);
+    cursor: pointer;
+}
+.option:hover{
+    color: #2E4056;
+}

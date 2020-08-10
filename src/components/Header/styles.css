@@ -1,0 +1,41 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    background-color: white;
+}
+.header img{
+    width: 16%;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    width: 45%;
+    font-weight: 500;
+    color: #a7a8aa;
+    height: 50px;
+    align-items: center;
+    font-size: 15px;
+    cursor: pointer;
+    transform: color 2.5s;
+    margin-top : 1%;
+}
+.content p:hover{
+    color: #0224d0;
+}
+.free{
+    color: white;
+    background-color: #2A964E;
+    border-radius: 20px;
+    padding: 10px;
+    transition: all ease 0.3s;
+    border: solid #2A964E 2px;
+}
+.free:hover{
+    background-color: white;
+    color : #2A964E !important;
+}
+
